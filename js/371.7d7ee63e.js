@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhm_element_pc"]=self["webpackChunkhm_element_pc"]||[]).push([[371],{1371:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var l=function(){var e=this,n=e._self._c;return n("div",[e._v("我是二级数据看板页面")])},t=[],r={name:"DashBoard"},c=r,s=u(1656),a=(0,s.A)(c,l,t,!1,null,null,null),f=a.exports}}]);
+//# sourceMappingURL=371.7d7ee63e.js.map
